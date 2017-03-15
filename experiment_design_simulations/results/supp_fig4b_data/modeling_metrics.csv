@@ -1,0 +1,2 @@
+lm_false_negatives,lm_false_positive_rate,lm_false_positives,lm_largest_effect_detected,lm_observed_false,lm_observed_true,lm_pearson_p,lm_pearson_r,lm_percent_of_total_effect_detected,lm_precision,lm_recall,lm_sim_false,lm_sim_true,lm_smallest_effect_detected,lm_specificity,lm_total_effect_detected,lm_true_negatives,lm_true_positives,lm_weighted_precision,lm_weighted_recall
+7,0.0,0,0.942631299582,117,3,0.0292404915972,0.199113505724,0.16820374973,1.0,0.3,110,10,0.991224368347,1.0,0.91198279426,110,3,1.0,0.16820374973
